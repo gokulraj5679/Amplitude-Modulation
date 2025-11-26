@@ -123,8 +123,9 @@ Output Waveform :
 
 
 TABULATION:
+<img width="1600" height="1033" alt="image" src="https://github.com/user-attachments/assets/509207df-28cd-4161-af53-505909030b2c" />
 
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/b03931a7-60dd-4dc7-b40d-28150b4c0b7c" />
+
 
 Calculation
 1.	ma (Theory) = am/ac =
